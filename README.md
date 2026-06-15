@@ -34,13 +34,13 @@ Implementada en Cisco Packet Tracer.
 ![OSPF Neighbors](show-ip-ospf-neighbor.png)
 
 ### Rutas inter-area O IA
-![OSPF Routes](ospf-routes.png)
+![OSPF Routes](show-ip-route.png)
 
 ### DHCP funcionando
 ![DHCP](IP DHCP.png)
 
 ### DNS resolviendo nombres entre áreas y Ping entre sucursale
-![NSLookup](ping-nslookup)
+![NSLookup](ping-nslookup.png)
 
 ## Archivo Packet Tracer
 [Descargar proyecto (.pkt)](fedex-network.pkt)
