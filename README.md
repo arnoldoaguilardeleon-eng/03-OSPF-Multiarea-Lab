@@ -31,7 +31,7 @@ Implementada en Cisco Packet Tracer.
 ## Evidencias
 
 ### Vecinos OSPF en estado FULL
-![OSPF Neighbors](ospf-neighbors.png)
+![OSPF Neighbors](show-ip-ospf-neighbor.png)
 
 ### Rutas inter-area O IA
 ![OSPF Routes](ospf-routes.png)
