@@ -11,7 +11,7 @@ Implementada en Cisco Packet Tracer.
 - Conectividad inter-area
 
 ## Topología
-![Topologia](topologia.png)
+![Topologia](Topologia.png)
 
 ## Áreas OSPF
 | Sucursal | Red LAN | Area OSPF | Router ID |
@@ -37,7 +37,7 @@ Implementada en Cisco Packet Tracer.
 ![OSPF Routes](show-ip-route.png)
 
 ### DHCP funcionando
-![DHCP](IP DHCP.png)
+![DHCP](IP-DHCP.png)
 
 ### DNS resolviendo nombres entre áreas y Ping entre sucursale
 ![NSLookup](ping-nslookup.png)
