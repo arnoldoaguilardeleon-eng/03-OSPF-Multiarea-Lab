@@ -43,4 +43,4 @@ Implementada en Cisco Packet Tracer.
 ![NSLookup](ping-nslookup.png)
 
 ## Archivo Packet Tracer
-[Descargar proyecto (.pkt)](fedex-network.pkt)
+[Descargar proyecto (.pkt)](fedex.pkt)
