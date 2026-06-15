@@ -37,7 +37,7 @@ Implementada en Cisco Packet Tracer.
 ![OSPF Routes](ospf-routes.png)
 
 ### DHCP funcionando
-![DHCP](IPDHCP.png)
+![DHCP](IP DHCP.png)
 
 ### DNS resolviendo nombres entre áreas y Ping entre sucursale
 ![NSLookup](ping-nslookup)
